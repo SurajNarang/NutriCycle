@@ -1,4 +1,4 @@
-package com.example.sloppyseconds;
+package com.example.nutracycle;
 
 import android.widget.Button;
 import java.util.ArrayList;

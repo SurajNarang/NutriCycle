@@ -1,4 +1,4 @@
-package com.example.sloppyseconds
+package com.example.nutracycle
 
 import android.util.Log
 import androidx.camera.core.ImageAnalysis

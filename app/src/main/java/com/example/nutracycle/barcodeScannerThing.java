@@ -1,4 +1,4 @@
-package com.example.sloppyseconds;
+package com.example.nutracycle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,8 +7,6 @@ import android.os.Bundle;
 import com.google.firebase.ml.vision.barcode.FirebaseVisionBarcode;
 import com.google.firebase.ml.vision.barcode.FirebaseVisionBarcodeDetectorOptions;
 import com.google.firebase.ml.vision.common.FirebaseVisionImage;
-
-import androidx.camera.camera2.Camera2Config;
 //import androidx.camera.core.CameraXConfig;
 
 public class barcodeScannerThing extends AppCompatActivity {

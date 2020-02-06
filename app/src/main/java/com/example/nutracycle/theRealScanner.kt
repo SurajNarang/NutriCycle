@@ -1,14 +1,12 @@
-package com.example.sloppyseconds
+package com.example.nutracycle
 
 import android.content.pm.PackageManager
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.os.PersistableBundle
 import android.view.TextureView
 import android.widget.Toast
 import androidx.core.app.ActivityCompat
 import android.Manifest
-import android.util.Log
 import androidx.camera.core.*
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.LifecycleOwner
